@@ -5,16 +5,11 @@ A highly motivated Data Analysis Engineer with a background in Computer and Info
 </p>
 
 
-I'm constantly learning, working on real-world projects, and aiming to make data more meaningful and impactful.
+
 
 ---
 
-## 🛠️ Skills
-
-**Languages:** Python (NumPy, Pandas, Matplotlib), T-SQL  
-**BI Tools:** Power BI, Tableau, Excel, SSIS, SSAS, SSRS  
-**Other:** Git, Flask, Data Cleaning, Data Modeling, ETL, Dashboard Design  
-**Soft Skills:** Presentation, Problem Solving, Teamwork, Analytical Thinking  
+- I'm constantly learning, working on real-world projects, and aiming to make data more meaningful and impactful.
 
 ---
 
