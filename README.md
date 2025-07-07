@@ -14,7 +14,7 @@ A highly motivated Data Analysis Engineer with a background in Computer and Info
 
 ## 📫 Contact Me
 
-- 📧 Email: [Email](mailto:amirelsayed159@gmail.com)
+- 📧 Email: [amirelsayed159@gmail.com](mailto:amirelsayed159@gmail.com)
 - 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/amiralsayed)
 
 ---
