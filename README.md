@@ -10,7 +10,7 @@ A highly motivated Data Analysis Engineer with a background in Computer and Info
 ---
 
 - I'm constantly learning, working on real-world projects, and aiming to make data more meaningful and impactful.
-- Check My Resume : https://flowcv.com/resume/pjw6d1d56j3d
+- Check out my [Resume](https://flowcv.com/resume/pjw6d1d56j3d)
 
 ---
 
