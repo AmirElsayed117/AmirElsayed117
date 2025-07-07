@@ -2,17 +2,9 @@
 
 <p align="center">
 🔎 Passionate about turning raw data into valuable insights <br>
+A highly motivated Data Analysis Engineer with a background in Computer and Informatics. Skilled in SQL, Power BI, Tableau, and ETL processes, with a passion for transforming raw data into actionable insights. Quick learner and collaborative team player
 </p>
 
----
-
-## 💼 About Me
-
-I'm a highly motivated Data Analysis Engineer with strong hands-on experience in:
-- Data cleaning, modeling, and visualization
-- End-to-End BI solutions using Microsoft SQL Server tools (SSIS, SSAS, SSRS)
-- Building interactive dashboards with Power BI, Excel, and Tableau
-- Python scripting for data analysis and automation
 
 I'm constantly learning, working on real-world projects, and aiming to make data more meaningful and impactful.
 
