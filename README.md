@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Amir El Sayed</h1>
 
 <p align="center">
-A highly motivated Data Analysis Engineer with a background in Computer and Informatics. Skilled in SQL, Power BI, Tableau, and ETL processes, with a passion for transforming raw data into actionable insights. Quick learner and collaborative team player
+A highly motivated Data Analysis Engineer with a background in Computer Science. Skilled in SQL, Power BI, Tableau, and ETL processes, with a passion for transforming raw data into actionable insights. Quick learner and collaborative team player
 </p>
 
 ---
