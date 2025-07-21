@@ -18,5 +18,13 @@ A highly motivated Data Analysis Engineer with a background in Computer Science.
 - 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/amiralsayed)
 
 ---
+Languages and Tools:
+
+- **Power BI**: DAX, Power Query, M Language, Data Modeling  
+- **Tableau**  
+- **Microsoft SQL Server**: SSMS, SSIS  
+- **SQL**: T-SQL  
+- **Excel**: Power Query  
+- **Python**: NumPy, Pandas, Matplotlib, Seaborn
 
 > "The best way to learn is to build — and I build with data."
